@@ -1,0 +1,22 @@
+PODS:
+  - Kingfisher (5.14.1):
+    - Kingfisher/Core (= 5.14.1)
+  - Kingfisher/Core (5.14.1)
+  - RappleProgressHUD (4.1)
+
+DEPENDENCIES:
+  - Kingfisher
+  - RappleProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - Kingfisher
+    - RappleProgressHUD
+
+SPEC CHECKSUMS:
+  Kingfisher: 8050bc6f7f68cbf3908bd04df7ccbac188f6d6d6
+  RappleProgressHUD: f29bc5dc5f9834c2caa9c2ae21ba11f3ff2b5a85
+
+PODFILE CHECKSUM: d1039c2091a2d85adfde87ad7add1479852b9d16
+
+COCOAPODS: 1.8.4

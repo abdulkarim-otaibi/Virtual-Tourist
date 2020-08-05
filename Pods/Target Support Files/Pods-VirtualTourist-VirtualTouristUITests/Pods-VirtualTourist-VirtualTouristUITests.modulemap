@@ -1,0 +1,6 @@
+module Pods_VirtualTourist_VirtualTouristUITests {
+  umbrella header "Pods-VirtualTourist-VirtualTouristUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
