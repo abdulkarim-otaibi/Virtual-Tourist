@@ -133,6 +133,7 @@ class PhotoAlbumViewController: UIViewController ,MKMapViewDelegate,UICollection
             self.photoList.removeAll()
             self.photo.removeAll()
             self.loadURLFromAPI()
+            self.Collection.reloadData()
 
         }
     }
